@@ -1,20 +1,20 @@
 :root {
   --fondo: #ffffff;
-  --superficie: #f4f6f5;
-  --texto: #18201d;
-  --texto-secundario: #5b6662;
-  --marca: #0f6b4f;
-  --borde: #dfe5e2;
+  --superficie: #f4f6f9;
+  --texto: #151a24;
+  --texto-secundario: #5d6575;
+  --marca: #2f5bea;
+  --borde: #dfe3ea;
   color-scheme: light dark;
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --fondo: #121816;
-    --superficie: #1b2320;
-    --texto: #eef3f1;
-    --texto-secundario: #a3b0ab;
-    --marca: #4fd1a1;
-    --borde: #2a3430;
+    --fondo: #0a0c11;
+    --superficie: #151922;
+    --texto: #eef1f7;
+    --texto-secundario: #98a1b3;
+    --marca: #7c9bff;
+    --borde: #252a36;
   }
 }
 * { box-sizing: border-box; }
